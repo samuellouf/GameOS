@@ -1,2 +1,3 @@
 # GameOS
-GameOS Repository
+Hello!
+Welcome to the GameOS Repository.
